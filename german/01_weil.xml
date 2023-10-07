@@ -1,0 +1,51 @@
+<speak>
+  <p>Teacher: Alright, let's dive into the "weil" construct. In German, "<lang xml:lang="de-DE">weil</lang>" means "because." It's a conjunction used to explain the reason or cause behind something. So, instead of saying "because" in English, we'll use "<lang xml:lang="de-DE">weil</lang>" in German.</p>
+
+  <p>Teacher: Let's start with a simple example. How would you say "I'm tired" in German?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich bin müde.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Great! Now, let's give a reason for why you're tired. How would you say "I'm tired because I didn't sleep well"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich bin müde, weil ich nicht gut geschlafen habe.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Excellent! You used the "<lang xml:lang="de-DE">weil</lang>" construct correctly. Now, let's practice with a few more examples. How would you say "She is happy because she passed the exam"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Sie ist glücklich, weil sie die Prüfung bestanden hat.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Well done! And how about "We're late because the train was delayed"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Wir sind spät, weil der Zug Verspätung hatte.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Perfect! You're getting the hang of it. Now, let's try a slightly more complex sentence. How would you say "He is not coming to the party because he has to work"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Er kommt nicht zur Party, weil er arbeiten muss.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Excellent! You used "<lang xml:lang="de-DE">weil</lang>" to express the reason for his absence.</p>
+
+  <p>Teacher: Remember, when using "<lang xml:lang="de-DE">weil</lang>," the verb usually comes at the end of the clause. It's important to keep that in mind for word order. Now, let's practice a bit more. How would you say "I don't want to go out because it's raining"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich will nicht ausgehen, weil es regnet.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Very good! And how about "They're not eating because they're not hungry"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Sie essen nicht, weil sie keinen Hunger haben.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Fantastic! You're doing a great job with the "<lang xml:lang="de-DE">weil</lang>" construct.</p>
+
+  <p>Teacher: Now, let's switch things up a bit. Instead of "<lang xml:lang="de-DE">weil</lang>," we can also use "<lang xml:lang="de-DE">da</lang>" to mean "because." How would you say "I can't come because I'm busy" using "<lang xml:lang="de-DE">da</lang>"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich kann nicht kommen, da ich beschäftigt bin.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Perfect! "<lang xml:lang="de-DE">Da</lang>" works just like "<lang xml:lang="de-DE">weil</lang>" in this context.</p>
+
+  <p>Teacher: Alright, let's recap what we've learned. How would you say "I'm happy because I passed the test" using "<lang xml:lang="de-DE">weil</lang>"?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich bin glücklich, weil ich den Test bestanden habe.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Excellent! And how about using "<lang xml:lang="de-DE">da</lang>" instead of "<lang xml:lang="de-DE">weil</lang>" in the same sentence?</p>
+  <break time="2500ms"/>
+  <p>Student: <voice language="de-DE">Ich bin glücklich, da ich den Test bestanden habe.</voice></p>
+  <break time="1s"/>
+  <p>Teacher: Well done! You've got the hang of it.</p>
+</speak>

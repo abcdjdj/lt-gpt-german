@@ -1,0 +1,151 @@
+<speak>
+  <p>
+    <s>Teacher: For indefinite articles, an easy way to remember the rules is that the adjective takes endings which signify the gender of the noun. As an example, for masculine nouns, we add <say-as interpret-as="verbatim">er</say-as> to the adjective.</s>
+  </p>
+  <p>
+    <s>Teacher: The <say-as interpret-as="verbatim">er</say-as> comes from <voice gender="male" language="de-DE">"der"</voice></s>
+  </p>
+  <break time="2500ms" />
+  <p>
+    <s>Teacher: The word for boy in German, is <voice gender="male" language="de-DE">"Junge"</voice>. That's <say-as interpret-as="verbatim">junge</say-as>, just like "young" in English. We call kids "young ones", don't we?</s>
+  </p>
+  <p>
+    <s>Teacher: So, to say "A strong boy," we use the adjective <voice gender="male" language="de-DE">"stark"</voice> and add <say-as interpret-as="verbatim">er</say-as> because "boy" is masculine. So, it becomes <voice gender="male" language="de-DE">"Ein starker Junge."</voice></s>
+  </p>
+  <p>
+    <s>Teacher: Now, let's practice a few examples.</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A strong boy"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein starker Junge.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "An old man"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein alter Mann.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A tall father"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein großer Vater.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A brave firefighter"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein tapferer Feuerwehrmann.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A happy father"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein glücklicher Vater.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: Great job! Now, let's move on to the rule for feminine nouns. Can you guess what ending we must add for feminine nouns?</s>
+  </p>
+  <p>
+    <s>Student: <voice gender="female">Just an "-e"?</voice></s>
+  </p>
+  <p>
+    <s>Teacher: Perfect. For feminine nouns, we add "-e" to the adjective.</s>
+  </p>
+  <p>
+    <s>Teacher: For example, to say "A beautiful woman," we use the adjective <voice gender="male" language="de-DE">"schön"</voice> and add "-e" because "woman" is feminine. So, it becomes <voice gender="male" language="de-DE">"Eine schöne Frau."</voice></s>
+  </p>
+    <p>
+    <s>Teacher: How would you say "A beautiful woman"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Eine schöne Frau.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "An intelligent daughter"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Eine intelligente Tochter.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A friendly neighbor (female)"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Eine freundliche Nachbarin.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A nice teacher (female)"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Eine nette Lehrerin.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A small apartment"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Eine kleine Wohnung.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: Now, let's move on to the rule for neuter nouns.</s>
+  </p>
+  <p>
+    <s>Teacher: For neuter nouns, we add <say-as interpret-as="verbatim">es</say-as> to the adjective. The <say-as interpret-as="verbatim">es</say-as> comes from "das".</s>
+  </p>
+  <p>
+    <s>Teacher: To say "A small child," we say <voice gender="male" language="de-DE">"Ein kleines Kind."</voice></s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A small child"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein kleines Kind.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Awesome!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A fancy car"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein schickes Auto.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A clean room"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein sauberes Zimmer.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A cold drink"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein kaltes Getränk.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "A big house"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein großes Haus.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "An old car"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ein altes Auto.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+</speak>

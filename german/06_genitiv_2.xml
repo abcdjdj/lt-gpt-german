@@ -1,0 +1,67 @@
+<speak>
+  <p>
+    <s>Teacher: Brilliant!</s>
+    <s>Teacher: So far, all the examples we saw were multisyllabic words like <voice gender="male" language="de-DE">Vater, Onkel, Mädchen</voice></s>
+    <s>Teacher: These words break into 2 syllables - <voice gender="male" language="de-DE">Fa-ter, On-kel, Mäd-chen</voice></s>
+    <s>Teacher: We showed ownership for these examples, by adding <say-as interpret-as="verbatim">s</say-as> to get <voice gender="male" language="de-DE">des Vaters, des Onkels, des Mädchens</voice></s>
+    <s>Teacher: But for monosyllabic words like <voice gender="male" language="de-DE">Mann, Buch, Kind</voice>, we add an <say-as interpret-as="verbatim">es</say-as>, instead of just <say-as interpret-as="verbatim">s</say-as></s>
+    <s>Teacher: So it becomes <voice gender="male" language="de-DE">des Mannes, des Buches, des Kindes</voice></s>
+  </p>
+
+  <p>
+    <s>Teacher: Now how would you say, "the eyes of the child"?</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">Die Augen, des Kindes</voice></s>
+    <break time="1s" />
+    <s>Teacher: So how will you say - "The eyes of the child are green"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Die Augen, des Kindes, sind Grün</voice></s>
+    <break time="1s" />
+    <s>Teacher: Very nice. Now try saying "The eyes of the child are green because her mother comes from Germany"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die Augen des, Kindes sind grün, weil, ihre Mutter, aus Deutschland, kommt</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Great job. How would you say "The head of a dog, is big"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Kopf, eines Hundes, ist groß</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Perfect. Try saying "The house of my friend, is small"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Haus, meines Freundes, ist klein</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Good. How can one say, "I am going to the house of my friend"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich gehe, zum Haus, meines Freundes</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: The verb for, "to lose", is <voice gender="male" language="de-DE">verlieren</voice></s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">Verlieren?</voice></s>
+    <s>Teacher: Yes</s><break time="500ms" />
+    <s>Teacher: Lost in German, is <voice gender="male" language="de-DE">verloren</voice></s><break time="500ms" />
+    <s>Teacher: It is just like the English word, forlorn. Forlorn means to be abandoned, or pitifully sad, lonely</s><break time="500ms" />
+    <s>Teacher: So how can one say, "We are lost"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Wir sind verloren</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Now how would you say "The keys of the car are lost"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die Schlüssel, des Autos, sind verloren</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+</speak>

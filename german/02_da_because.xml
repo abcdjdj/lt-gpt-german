@@ -1,0 +1,61 @@
+<speak>
+  <p>
+    <s>Teacher: How would you say "I can't go to the party because I have to study"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich kann nicht zur Party gehen, da ich lernen muss.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "They can't play outside because it's raining"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Sie können nicht draußen spielen, da es regnet.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "She can't come to the meeting because she is sick"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Sie kann nicht zum Treffen kommen, da sie krank ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Perfect!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "He can't buy the book because he doesn't have enough money"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Er kann das Buch nicht kaufen, da er nicht genug Geld hat.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "We can't go on vacation because we don't have time"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Wir können nicht in den Urlaub fahren, da wir keine Zeit haben.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "They can't watch a movie because the cinema is closed"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Sie können keinen Film anschauen, da das Kino geschlossen ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "We can't go to the park because it's too cold"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Wir können nicht in den Park gehen, da es zu kalt ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "He can't play soccer because he is injured"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Er kann kein Fußball spielen, da er verletzt ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: Great job with the additional examples using <lang xml:lang="de-DE">"da."</lang> Keep practicing and you'll become even more comfortable using it. Well done!</s>
+  </p>
+</speak>

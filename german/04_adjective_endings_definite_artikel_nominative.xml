@@ -1,0 +1,131 @@
+<speak>
+  <p>
+    <s>Teacher: Now, let's delve into a new topic: adjective endings in the nominative case.</s>
+  </p>
+  <p>
+    <s>Teacher: Let's start with the rule for masculine nouns. When an adjective precedes a singular masculine noun in the nominative case, we add <say-as interpret-as="verbatim">e</say-as> to the adjective.</s>
+  </p>
+  <p>
+    <s>Teacher: For example, to say "The big man," we use the adjective <voice language="de-DE">"groß"</voice> and add <say-as interpret-as="verbatim">e</say-as> because "man" is masculine. So, it becomes <voice language="de-DE">"Der große Mann."</voice></s>
+  </p>
+  <p>
+    <s>Teacher: Now, let's practice a few more examples using masculine nouns.</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The big man"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der große Mann.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The old man"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der alte Mann.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The strong father"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der starke Vater.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The brave firefighter"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der tapfere Feuerwehrmann.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The happy father"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der glückliche Vater.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: For feminine and neutral nouns, the rules are exactly like masculine nouns, just add an <say-as interpret-as="verbatim">e</say-as></s>
+  </p>
+  <p>
+    <s>Teacher: For example, to say "The beautiful woman," we use the adjective <voice language="de-DE">"schön"</voice> and add "-e" because "woman" is feminine. So, it becomes <voice language="de-DE">"Die schöne Frau."</voice></s>
+  </p>
+  <p>
+    <s>Teacher: Now, let's practice a few examples using feminine nouns.</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The beautiful woman"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die schöne Frau.</voice></s>
+    <break time="1s" />
+  </p>
+  <p>
+    <s>Teacher: How would you say "The intelligent daughter"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die intelligente Tochter.</voice></s>
+    <break time="1s" />
+  </p>
+  <p>
+    <s>Teacher: How would you say "The friendly neighbor (female)"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die freundliche Nachbarin.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The small apartment"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die kleine Wohnung.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The nice teacher (female)"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die nette Lehrerin.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The small child"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das kleine Kind.</voice></s>
+    <break time="1s" />
+  </p>
+  <p>
+    <s>Teacher: How would you say "The fancy car"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das schicke Auto.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The clean room"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das saubere Zimmer.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The new book"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das neue Buch.</voice></s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The big house"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das große Haus.</voice></s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "The hot drink"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das heiße Getränk.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: Excellent work with the adjective endings in the nominative case! Keep practicing to reinforce your understanding. Well done!</s>
+  </p>
+</speak>

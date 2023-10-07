@@ -1,0 +1,59 @@
+<speak>
+  <p>
+    <s>Teacher: Great job with the examples using <lang xml:lang="de-DE">"da."</lang> Now, let's move on to another important conjunction, <lang xml:lang="de-DE">"dass."</lang> It means "that" in English and is used to introduce a subordinate clause. Let's practice some examples to understand its usage.</s>
+  </p>
+  <p>
+    <s>Teacher: Before we start with the examples, let me explain how to use <lang xml:lang="de-DE">"dass."</lang> In German, when you have a sentence where you want to say "that" something is happening or being said, you use <lang xml:lang="de-DE">"dass."</lang> It helps to connect two clauses together. The clause introduced by <lang xml:lang="de-DE">"dass"</lang> is the subordinate clause, providing additional information or clarifying the main clause.</s>
+  </p>
+  <p>
+    <s>Teacher: For example, in the sentence "I know that he is busy," the main clause is "I know" and the subordinate clause is "that he is busy." Here, <lang xml:lang="de-DE">"dass"</lang> introduces the information being known.</s>
+  </p>
+  <p>
+    <s>Teacher: Now, let's practice some examples to solidify your understanding of using <lang xml:lang="de-DE">"dass."</lang></s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "I know that he is busy"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich weiß, dass er beschäftigt ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "She said that they will come tomorrow"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Sie hat gesagt, dass sie morgen kommen werden.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "He believes that it's true"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Er glaubt, dass es wahr ist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "We hope that she will come to the party"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Wir hoffen, dass sie zur Party kommen wird.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "They told me that you are a good student"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Sie haben mir gesagt, dass du ein guter Schüler bist.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent!</s>
+  </p>
+  <p>
+    <s>Teacher: How would you say "I think that it will rain tomorrow"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich denke, dass es morgen regnen wird.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job!</s>
+  </p>
+  <p>
+    <s>Teacher: Fantastic! You're getting the hang of using <lang xml:lang="de-DE">"dass."</lang> Keep practicing and you'll become even more comfortable with it. Well done!</s>
+  </p>
+</speak>

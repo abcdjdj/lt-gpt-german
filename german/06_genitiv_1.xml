@@ -1,0 +1,110 @@
+<speak>
+  <p>
+    <s>Teacher: Now, let's see how to indicate possession or ownership in German.</s>
+  </p>
+
+  <p>
+    <s>Teacher: To indicate possession or ownership, we add an "-s" at the end of the noun</s>
+  </p>
+
+  <p>
+    <s>Teacher: To say "Christian's car", simply say <voice gender="male" language="de-DE">"Christians Auto"</voice></s>
+    <s>Teacher: Just like English, but without the apostrophe. So how would you say "Heidi's dress"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Heidis kleid</voice></s>
+    <break time="1s" />
+    <s>Teacher: How about "Heidi's dress is expensive"? What was the word for expensive?</s>
+    <break time="750ms" />
+    <s>Student: <voice language="de-DE">teuer</voice></s>
+    <break time="1s" />
+    <s>Teacher: So how will you say - "Heidi's dress is expensive"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Heidis Kleid ist teuer</voice></s>
+    <break time="1s" />
+    <s>Teacher: Wonderful. Now try saying "Heidi's dress is expensive because she bought it in Italy"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Heidis Kleid ist teuer, weil, sie es in Italien gekauft hat.</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Excellent! Proper nouns like names follow this simple pattern of adding an <say-as interpret-as="verbatim">s</say-as> at the end of the noun</s><break time="500ms" />
+    <s>Teacher: Now let's see how to say, "the father's car", instead of "Christian's car"</s><break time="500ms" />
+    <s>Teacher: In German, instead of saying, "the father's car", we say "the car of the father"</s><break time="500ms" />
+  </p>
+  <p>
+    <s>Teacher: So how does one say "The father"?</s><break time="1000ms" />
+    <s>Student: <voice language="de-DE">Der Vater</voice></s><break time="500ms" />
+    <s>Teacher: Great. Now add an "s" to both words, just like we did earlier</s><break time="500ms" />
+    <s>Teacher: If you add an "s" to <voice gender="male" language="de-DE">der</voice>, what do we get?</s><break time="500ms" />
+    <s>Student: <voice language="de-DE">ders?</voice></s><break time="500ms" />
+    <s>Teacher: Close, but not quite</s><break time="500ms" />
+    <s>Teacher: We added <say-as interpret-as="verbatim">s</say-as> to <voice gender="male" language="de-DE">der</voice>, which makes it <voice gender="male" language="de-DE">des</voice></s><break time="500ms" />
+    <s>Teacher: And when we add an "s" to <voice gender="male" language="de-DE">Vater</voice>, it becomes?</s>
+    <s>Student: <voice language="de-DE">Vaters?</voice></s><break time="500ms" />
+    <s>Teacher: Excellent, <voice gender="male" language="de-DE">Vater</voice> becomes <voice gender="male" language="de-DE">Vaters</voice>, <say-as interpret-as="verbatim">Vaters</say-as> </s>
+    <break time="1s" />
+    <s>Teacher: So, everything together now - "the car of the father"</s><break time="2.5s" />
+    <s>Student: <voice language="de-DE">Das Auto, des Vaters</voice></s>
+    <s>Teacher: Right. <voice gender="male" language="de-DE">Das Auto, des Vaters</voice>, good</s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Now how would you say, "the computer of my uncle"?</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">Der Computer, meines Onkels</voice></s>
+    <break time="1s" />
+    <s>Teacher: So how will you say - "the computer of my uncle is slow"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Der Computer, meines Onkels, ist langsam</voice></s>
+    <break time="1s" />
+    <s>Teacher: Very nice. Now try saying "the computer of my uncle is slow because it is very old"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Computer, meines Onkels, ist langsam, weil, es sehr alt ist</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: How would you say, "The room of the hotel, is too small"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Zimmer des Hotels ist zu klein</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done!</s>
+  </p>
+
+  <p>
+    <s>Teacher: How about, "I love, the dog of my uncle"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich liebe, der Hund, meines Onkels</voice></s>
+    <break time="1s" />
+    <s>Teacher: Aren't you forgetting something?</s>
+    <s>Teacher: What happens to <voice gender="male" language="de-DE">der Hund</voice>, when it is the object?</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">Oh sorry. Den Hund</voice></s>
+    <break time="1s" />
+    <s>Teacher: Once more, "I love, the dog of my uncle"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich liebe, den Hund, meines Onkels</voice></s>
+    <s>Teacher: Wonderful!</s>
+  </p>
+
+  <p>
+    <s>Teacher: How would you say, "I have seen, the teacher of the girl"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich habe, die Lehrerin, des Mädchens, gesehen.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Good! <voice gender="male" language="de-DE">Mädchen</voice>, is neutral and follows the same rule. Just add "-s" to both words</s>
+  </p>
+
+  <p>
+    <s>Teacher: How would you say, "Can you give me, the number of your mobile phone"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">"Kannst du mir, die Nummer, deines Handys geben?</voice></s>
+    <break time="1s" />
+    <s>Teacher: Right</s>
+    <break time="1s" />
+    <s><voice gender="male" language="de-DE">"Kannst du mir, die Nummer, deines Handys geben?</voice></s>
+  </p>
+
+</speak>

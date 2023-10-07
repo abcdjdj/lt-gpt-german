@@ -1,0 +1,73 @@
+<speak>
+  <p>
+    <s>Teacher: And for feminine nouns, <voice gender="male" language="de-DE">"die"</voice> becomes, <voice gender="male" language="de-DE">"der"</voice></s>
+    <break time="1s" />
+    <s>Teacher: It's exactly like the Dative case</s>
+    <break time="1s" />
+    <s>Teacher: For example, to say, "The dress of the woman," we say, <voice gender="male" language="de-DE">Das Kleid der Frau</voice></s>
+    <break time="1s" />
+  </p>
+
+
+  <p>
+    <s>Teacher: So, how would you say, "I don't like the dress of the woman"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich mag nicht das Kleid der Frau</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Good. The word for light, as in light from the lamp, is <voice gender="male" language="de-DE">licht</voice></s><break time="750ms" />
+    <s>Teacher: It's the same word as English, light, just change <say-as interpret-as="verbatim">gh"</say-as> to <say-as interpret-as="verbatim">cht</say-as></s>
+    <s>Teacher: Exactly like how night, becomes, <voice gender="male" language="de-DE">nacht</voice></s>
+    <s>Teacher: Now how would you say "The light of the sun is strong"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Licht der Sonne ist stark.</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: How about, "I would like to eat my mother's pizza"?</s>
+    <break time="750ms" />
+    <s>Teacher: Pizza is, <voice gender="male" language="de-DE">die Pizza</voice></s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich möchte, die Pizza, meiner Mutter, essen</voice></s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Good. How will you say, "The cat's hair, is black"?</s>
+    <break time="750ms" />
+    <s>Teacher: The hair is, <voice gender="male" language="de-DE">die Haare</voice></s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Die Haare, der Katze, ist schwarz</voice></s>
+    <break time="1s" />
+    <s>Teacher: Hair is plural. What verb should you use?</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">sind</voice></s>
+    <break time="1s" />
+    <s>Teacher: Again, full sentence</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">Die Haare, der Katze, sind schwarz</voice></s>
+  </p>
+
+  <p>
+    <s>Teacher: Good, now how about, "I can not buy, the lady's mobile phone, because, I don't like the mobile phone's color?"</s>
+    <break time="1s" />
+    <s>Teacher: Let's start with, "I can not buy, the lady's mobile phone"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich kann nicht, das Handy, der Frau, kaufen</voice></s>
+    <break time="1s" />
+    <s>Teacher: because</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">weil</voice></s>
+    <break time="1s" />
+    <s>Teacher: "I don't like, the mobile phone's color"</s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">ich, die Farbe, des Handys, nicht mag</voice></s>
+    <break time="1s" />
+    <s>Teacher: Now everything together - "I can not buy, the lady's mobile phone, because, I don't like the mobile phone's color?"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Ich kann, das Handy der Frau, nicht kaufen, weil, ich, die Farbe des Handys, nicht mag</voice></s>
+  </p>
+</speak>
