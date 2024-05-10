@@ -1,0 +1,88 @@
+<!--
+    1. General rule (schnell, schneller, am schnellsten)
+    3. Adding umlaut to a, u, o. eg - gross,  größer,  am größten
+    4. Dropping the "e" in middle of adjective - dunkel, dunkler (no e)
+-->
+
+<speak>
+  <p>
+    <s>Teacher: How would you say, "The car is fast"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Auto ist schnell.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great job! To say, "faster", simply say <voice language="de-DE" gender="male">"schneller"</voice>, just like English</s>
+    <break time="750ms" />
+    <s>Teacher: Just add <say-as interpret-as="verbatim">er</say-as> to <voice language="de-DE" gender="male">"schnell"</voice> and we get <voice language="de-DE" gender="male">"schneller"</voice></s>
+    <break time="750ms" />
+    <s>Teacher: And "faster than", becomes, <voice language="de-DE" gender="male">"schneller als"</voice></s>
+    <break time="750ms" />
+    <s>Teacher: So how would you say, "The car is faster than the bicycle"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Auto, ist schneller, als das Fahrrad.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Right! <voice language="de-DE" gender="male">Das Auto, ist schneller, als das Fahrrad</voice></s>
+    <break time="1s" />
+    <s>Teacher: To say "fastest", we must say, <voice language="de-DE" gender="male">schnellsten</voice></s>
+    <break time="1s" />
+    <s>Just add <say-as interpret-as="verbatim">sten</say-as> to <voice language="de-DE" gender="male">"schnell"</voice></s>
+    <break time="750ms" />
+    <s>Teacher: So how would you say, "The car is the fastest"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Auto, ist, am schnellsten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Correct! <voice language="de-DE" gender="male">Das Auto, ist, am schnellsten</voice></s>
+  </p>
+
+  <p>
+    <s>Teacher: Now try saying, "The dog is friendly."</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Hund ist freundlich.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent! How about, "The dog is friendlier than the cat"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Hund ist freundlicher als die Katze.</voice></s>
+    <break time="1s" />
+    <s>Teacher: And for, "The dog is the friendliest"?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Hund ist am freundlichsten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Nice!</s>
+  </p>
+
+  <p>
+    <break time="1s" />
+    <s>Teacher: How would you say, "The restaurant is delicious"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Das Restaurant ist lecker.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done! Now, compare two restaurants. "The restaurant is more delicious than the cafe."</s>
+    <break time="1s" />
+    <s>Teacher: Cafe is "das Cafe"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Restaurant ist leckerer als das Café.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Fantastic! Lastly, tell me, "The restaurant is the most delicious."</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Das Restaurant ist am leckersten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Bravo!</s>
+  </p>
+
+  <p>
+    <break time="1s" />
+    <s>Teacher: How would you say, "The city is beautiful"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Die Stadt ist schön.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done! Now, compare two cities. "Munich is more beautiful than Berlin."</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">München ist schöner als Berlin.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Fantastic! Lastly, tell me, "Munich is the most beautiful."</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">München ist am schönsten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Bravo!</s>
+  </p>
+
+</speak>

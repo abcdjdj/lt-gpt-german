@@ -1,0 +1,106 @@
+<!--
+    1.  Superlativ sometimes takes "esten" instead of just "sten"
+        Ending in -d, -t, -s, -ss, -ß. If your tongue gets tied in a knot when trying to say it without an "e", just add "e".
+        eg - "wild" -> am wildsten. No, am wildesten
+    2.  Irregular verbs (good, better, best)
+    Examples - Positiv- Today is just as warm as yesterday. Or twice as warm
+-->
+<speak>
+
+    <p>
+        <s>Teacher: The word for wild, is <voice language="de-DE" gender="male">wild</voice></s>
+        <break time="1s" />
+        <s>Teacher: Now, how will you say wildest?</s>
+        <break time="1s" />
+        <s>Student: <voice language="de-DE">wildsten?</voice></s>
+        <break time="1s" />
+        <s>Teacher: It's hard to say <voice language="de-DE" gender="male">wildsten</voice>, isn't it?</s>
+        <break time="1s" />
+        <s>Teacher: That's why we add an "-e" and make it <voice language="de-DE" gender="male">wildesten</voice></s>
+        <break time="1s" />
+        <s>Student: <voice language="de-DE">wildesten</voice></s>
+        <break time="1s" />
+        <s>Teacher: Right. How would you say, "The horse is wild."</s>
+        <break time="2500ms" />
+        <s>Student: <voice language="de-DE">Das Pferd ist wild.</voice></s>
+        <break time="1s" />
+        <s>Teacher: Good! How about, "The horse is wilder than the zebra."</s>
+        <break time="2500ms" />
+        <s>Student: <voice language="de-DE">Das Pferd ist wilder als das Zebra.</voice></s>
+        <break time="1s" />
+        <s>Teacher: Wonderful. Now - "The horse is the wildest"?</s>
+        <break time="2500ms" />
+        <s>Student: <voice language="de-DE">Das Pferd ist am wildesten.</voice></s>
+        <break time="1s" />
+    </p>
+
+    <p>
+        <s>Teacher: You're making great progress!</s>
+        <break time="1s" />
+        <s>Teacher: How would you say, "The book is interesting"?</s>
+        <break time="1500ms" />
+        <s>Student: <voice language="de-DE">Das Buch ist interessant.</voice></s>
+        <break time="1s" />
+        <s>Teacher: Excellent! Now, compare two books. "This book is more interesting than that book."</s>
+        <break time="2500ms" />
+        <s>Student: <voice language="de-DE">Dieses Buch ist interessanter als dieses Buch.</voice></s>
+        <break time="1s" />
+        <s>Teacher: Fantastic! Lastly, tell me, "This book is the most interesting."</s>
+        <break time="1500ms" />
+        <s>Student: <voice language="de-DE">Dieses Buch ist am interessantesten.</voice></s>
+        <break time="1s" />
+        <s>Teacher: Marvelous!</s>
+  </p>
+
+  <p>
+    <s>Teacher: How would you say, "The house is big"?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Das Haus ist groß.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Fantastic! Now, to say, "bigger", add an umlaut on the "o" too</s>
+    <break time="1s" />
+    <s>Teacher: So <voice language="de-DE" gender="male">großer</voice> becomes <voice language="de-DE" gender="male">größer</voice></s>
+    <break time="1s" />
+    <s>Student: <voice language="de-DE">größer.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Right! How would you say, "The house is bigger than the boat"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Das Haus ist größer als das Boot.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Very well! Lastly, tell me, "The house is the biggest."</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Das Haus ist am größten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Perfect!</s>
+  </p>
+
+  <p>
+    <s>Teacher: The word for "high", is <voice language="de-DE" gender="male">hoch</voice> - <say-as interpret-as="verbatim">hoch</say-as></s>
+    <break time="750ms" />
+    <s>Teacher: Just like the <say-as interpret-as="verbatim">gh</say-as>, in "laugh" became, <say-as interpret-as="verbatim">ch</say-as> in, <voice language="de-DE" gender="male">"lachen"</voice></s>
+    <break time="1s" />
+    <s>Teacher: high becomes <voice language="de-DE" gender="male">hoch</voice> - <say-as interpret-as="verbatim">hoch</say-as></s>
+    <break time="1s" />
+    <s>Teacher: How would you say, "The mountain is high" in the positive form?</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Der Berg ist hoch.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Great! Now, compare two mountains. "The mountain is higher than the clouds."</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Der Berg ist höher als die Wolken.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Wonderful! And finally, tell me, "The mountain is the highest."</s>
+    <break time="1500ms" />
+    <s>Student: <voice language="de-DE">Der Berg ist am höchsten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent job!</s>
+  </p>
+
+  <p>
+    <s>Teacher: We have seen how to say things like, "Max is the fastest". How would you say that?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Max ist am schnellsten.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Good. Now, if you wanna say, Max is the fastest <emphasis>man</emphasis>, it would be <voice language="de-DE" gender="male">Max ist, der schnellste, Mann</voice></s>
+  </p>
+</speak>
