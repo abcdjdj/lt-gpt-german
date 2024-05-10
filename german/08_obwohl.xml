@@ -1,0 +1,52 @@
+<speak>
+  <p>
+    <s>Teacher: Now, let's explore another important aspect of the German language - the use of "obwohl" to express contrast or concession.</s>
+  </p>
+
+  <p>
+    <s>Teacher: "Obwohl" is a conjunction that translates to "although" in English, and it's used to introduce a contrasting idea in a sentence.</s>
+    <s>Teacher: For example, if you want to say, "Although it's raining, I will go for a walk," how would you begin the sentence?</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Obwohl es regnet,</voice></s>
+    <break time="1s" />
+    <s>Teacher: Very good! Now, complete the sentence by saying, "I will go for a walk."</s>
+    <break time="750ms" />
+    <s>Student: <voice language="de-DE">gehe ich spazieren.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent! So, the whole sentence is: <voice language="de-DE">Obwohl es regnet, gehe ich spazieren.</voice></s>
+    <break time="1500ms" />
+  </p>
+
+  <p>
+    <s>Teacher: Let's practice some more. How would you say, "Although I'm tired, I will finish my work?"</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Obwohl ich müde bin, werde ich meine Arbeit beenden.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Well done! The conjunction "obwohl" helps us express contrast in sentences.</s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Now, try this one: "Although he studied hard, he didn't pass the exam."</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Obwohl er hart gelernt hat, hat er die Prüfung nicht bestanden.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Perfect! You're getting the hang of it.</s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: One more for practice: "Although it's cold outside, she's going for a run."</s>
+    <break time="2500ms" />
+    <s>Student: <voice language="de-DE">Obwohl es draußen kalt ist, geht sie joggen.</voice></s>
+    <break time="1s" />
+    <s>Teacher: Excellent job! "Obwohl" is a powerful tool to convey contrast in your sentences.</s>
+    <break time="1s" />
+  </p>
+
+  <p>
+    <s>Teacher: Remember to use "obwohl" when you want to introduce a contrasting idea in your German sentences.</s>
+    <break time="1500ms" />
+    <s>Teacher: Great work today! Keep practicing, and you'll become more fluent in using "obwohl" to express contrast.</s>
+  </p>
+</speak>
